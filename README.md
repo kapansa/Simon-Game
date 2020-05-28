@@ -13,4 +13,4 @@ build it using HTML, CSS, JavaScript and Jquery.
 ![](simon.PNG)
 
 ## Try It Out
-Play the [Simon Game](https://pages.github.com/)
+Play the [Simon Game](https://kapansa.github.io/Simon-Game/)
